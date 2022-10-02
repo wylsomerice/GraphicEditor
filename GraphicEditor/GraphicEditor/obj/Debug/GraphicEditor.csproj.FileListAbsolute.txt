@@ -1,0 +1,11 @@
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.exe.config
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.exe
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\bin\Debug\GraphicEditor.pdb
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.Form1.resources
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.Properties.Resources.resources
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.exe
+C:\Users\artem\source\repos\GraphicEditor\GraphicEditor\GraphicEditor\obj\Debug\GraphicEditor.pdb
